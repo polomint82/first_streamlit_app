@@ -1,1 +1,3 @@
-# first_streamlit_app
+import streamlit
+
+streamlit.title("Independent Research and Certification for Snowflake Exam")
